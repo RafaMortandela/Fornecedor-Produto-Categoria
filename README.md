@@ -6,4 +6,6 @@ Foram utilizados os padrões MVC e DAO.
 
 Softwares utilizados: NetBeans, Visual Studio Code e PostgreSQL.
 
+PDF com instruções disponível neste repositório.
+
 Nota final: 10/10
